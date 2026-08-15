@@ -1,122 +1,150 @@
-# Hi, I'm Shruti Porwal 👋
+<div align="center">
 
-### Full Stack Developer • Problem Solver • Open Source Contributor
+✦ Hi, I'm Shruti Porwal 👋
 
-I'm a BCA student passionate about building modern web applications, solving problems, and continuously learning new technologies.
+Full Stack Developer · Problem Solver · Open Source Contributor
 
-I enjoy turning ideas into practical solutions, contributing to developer communities, and growing one commit at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+web+experiences.;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing;Turning+ideas+into+clean%2C+useful+code.;Always+learning%2C+always+building." alt="Typing SVG" />
 
-> **Build. Learn. Contribute. Repeat. 🚀**
+<br>
 
----
+<a href="https://github.com/shruti-porwal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shruti-porwal-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/_sru00/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/porwalshruti230">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
 
-## 👩‍💻 About Me
+<br><br>
 
-* 🎓 BCA Student at **GLA University**
-* 💻 Focused on **Full Stack Web Development**
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 🌱 Currently exploring **Next.js & Backend Development**
-* 🤝 Interested in **Open Source, Hackathons & Collaboration**
-* ⚡ Always curious about learning something new
+Learn. Build. Contribute. Repeat. 🚀
 
----
+</div>
 
-## 🛠️ Tech Stack
+✦ About Me
 
-### Languages & Frontend
+<table>
+<tr>
+<td width="50%">
 
-`JavaScript` `Java` `HTML5` `CSS3` `React.js` `Next.js` `Tailwind CSS`
+🎓 BCA Student
+GLA University
 
-### Backend & Database
+<br>
 
-`Node.js` `Express.js` `MongoDB` `Prisma` `Neon` `REST APIs`
+💻 Focus
+Full Stack Web Development
 
-### Tools & Platforms
+<br>
 
-`Git` `GitHub` `Postman` `VS Code` `Vercel` `Render`
+🧠 Improving
+Data Structures & Problem Solving
 
----
+</td>
+<td width="50%">
 
-## 🏆 Achievements & Contributions
+🌱 Currently Exploring
+Next.js · Backend Development
 
-<p align="center">
-  <img src="./assets/gssoc-rising-star.png" width="180" />
-  <img src="./assets/gssoc-contributor.png" width="180" />
-  <img src="./assets/gssoc-first-step.png" width="180" />
-</p>
+<br>
 
-<p align="center">
-  <b>GirlScript Summer of Code 2026</b>
-  <br/>
-  Contributor • Rising Star • First Step
-</p>
+🤝 Interested In
+Open Source · Hackathons · Collaboration
 
-<br/>
+<br>
 
-<p align="center">
-  <img src="./assets/google-cloud-arcade.png" width="220" />
-</p>
+⚡ Mindset
+Build → Learn → Improve
 
-<p align="center">
-  <b>Google Cloud</b>
-  <br/>
-  Build an ACE Certification Study Guide — Completion Badge
-</p>
+</td>
+</tr>
+</table>
 
----
-
-## 🧩 Coding Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/_sru00/">
-    <img src="./assets/leetcode-50-days.png" width="220" />
-  </a>
-</p>
+⚡ Tech Stack
 
 <p align="center">
-  <b>LeetCode — 50 Days Badge 2026</b>
-  <br/>
-  Consistency over perfection.
+  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,prisma,tailwind,git,github,postman,vscode" alt="Tech Stack"/>
 </p>
 
----
+🏆 Achievements & Contributions
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti-porwal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=shruti-porwal&theme=transparent&hide_border=true" height="165"/>
+GirlScript Summer of Code 2026
+
+<p>
+  <img src="./assets/gssoc-rising-star.png" width="175" alt="GSSoC 2026 Rising Star"/>
+  &nbsp;&nbsp;
+  <img src="./assets/gssoc-contributor.png" width="175" alt="GSSoC 2026 Contributor"/>
+  &nbsp;&nbsp;
+  <img src="./assets/gssoc-first-step.png" width="175" alt="GSSoC 2026 First Step"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-porwal&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
+Rising Star · Contributor · First Step
 
----
+<br>
 
-## 🌐 Let's Connect
+☁️ Google Cloud
 
-<p align="center">
-  <a href="https://github.com/shruti-porwal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shruti-porwal-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/_sru00/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/porwalshruti230">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
+<img src="./assets/google-cloud-arcade.png" width="210" alt="Google Cloud Completion Badge"/>
 
----
+Build an ACE Certification Study Guide — Completion Badge
 
-<p align="center">
-  <i>"Consistency beats intensity when you're building something that lasts."</i>
-</p>
+</div>
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+🧩 Coding Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/_sru00/">
+  <img src="./assets/leetcode-50-days.png" width="230" alt="LeetCode 50 Days Badge 2026"/>
+</a>
+
+LeetCode · 50 Days Badge 2026
+
+Consistency over perfection.
+
+</div>
+
+📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shruti-porwal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=shruti-porwal&theme=transparent&hide_border=true" height="170" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-porwal&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages"/>
+
+</div>
+
+🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/shruti-porwal">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/shruti-porwal-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/_sru00/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/porwalshruti230">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+
+<br><br>
+
+Thanks for stopping by! ⭐
+
+</div>
