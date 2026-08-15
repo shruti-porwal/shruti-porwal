@@ -21,21 +21,31 @@ I enjoy turning ideas into practical solutions, contributing to developer commun
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### Languages & Frontend
+Languages & Frontend
 
-`JavaScript` `Java` `HTML5` `CSS3` `React.js` `Next.js` `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,nextjs,tailwind" alt="Languages and Frontend"/>
+</p>
 
-### Backend & Database
+Backend & Database
 
-`Node.js` `Express.js` `MongoDB` `Prisma` `Neon` `REST APIs`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" alt="Backend and Database"/>
+</p>
 
-### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" alt="Neon"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
 
-`Git` `GitHub` `Postman` `VS Code` `Vercel` `Render`
+Tools & Platforms
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools and Platforms"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+</p>
 
 ## 🏆 Achievements & Contributions
 
